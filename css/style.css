@@ -454,7 +454,6 @@ a:focus, button:focus {
   padding-bottom: 20px;
 
   overflow-x: auto;
-  scroll-behavior: smooth;
   scrollbar-width: none;
 }
 
@@ -784,3 +783,4 @@ a:focus, button:focus {
 .whatsapp-flutuante:hover {
   transform: scale(1.1) translateY(-4px);
 }
+
