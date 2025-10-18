@@ -25,6 +25,7 @@ body {
   font-family: 'Poppins', sans-serif;
   color: var(--cor-texto);
   background-color: var(--cor-bg);
+  margin: auto;
   overflow-x: hidden;
 }
 
@@ -794,3 +795,4 @@ a:focus, button:focus {
 .whatsapp-flutuante:hover {
   transform: scale(1.1) translateY(-4px);
 }
+
